@@ -8,7 +8,7 @@
   },
   "scripts": {
     "start": "webpack-dev-server",
-    "build": "webpack",
+    "build": "webpack -p",
     "deploy": "gh-pages -d public"
   },
   "babel": {
