@@ -1,3 +1,3 @@
 строка поиска
 
-https://yeffasol.github.io/react-select/
+https://some-yummy-nick.github.io/react-select/
